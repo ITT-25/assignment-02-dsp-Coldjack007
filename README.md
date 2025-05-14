@@ -21,7 +21,7 @@
 ## Info
 - Ich bin mir ziemlich sicher, dass das Karaoke Spiel funtioniert, jedoch ist mein Mikrofon etwas dumpf, weswegen ich das nicht zu 100% testen konnte. Der whistle_input funktioniert aber zu 100%.
 
-# WHISTLE UNPUT
+# WHISTLE INPUT
 
 ## Installation
 
