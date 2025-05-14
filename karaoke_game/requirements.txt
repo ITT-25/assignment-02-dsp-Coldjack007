@@ -1,0 +1,5 @@
+mido==1.3.3
+packaging==25.0
+PyAudio==0.2.14
+pygame==2.6.1
+pyglet==2.1.6
