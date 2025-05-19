@@ -1,6 +1,6 @@
-## Richard Mairinger (/15P)
+## Richard Mairinger (9.5/15P)
 
-### 1 Karaoke Game (0-4/6P)
+### 1 Karaoke Game (2/6P)
 The given code would be scored with 4/6P. As you have worked together without marking who wrote which part, you are free to decide which of you gets how many of these points. Please inform us about your choice before Tuesday.
 
  * flickery, and the character only jumps between 3 or 4 levels -> almost impossible to play 
@@ -10,7 +10,7 @@ The given code would be scored with 4/6P. As you have worked together without ma
 
  * can't deal with background noise (-1)
 
-### Code is ok! (0-1/1P)
+### Code is ok! (0.5/1P)
 
 The given code is well-written. As you have worked together, we proceed as described above.
 
